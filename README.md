@@ -1,4 +1,4 @@
-### <h1>Hi there, I'm <a href="https://t.me/alekseypydev" target="_blank">Ale</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  height="32"/>  Beginner python developer</h1>
+### <h1>Hi there, I'm <a href="https://t.me/alekseypydev" target="_blank">Aleksey</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif"  height="32"/>  Beginner python developer</h1>
 
 
 My currently technology stack: Python | Django | Django REST Framework | SQLite | PostgreSQL | Linux | Docker | Ngnix | Yandex.Cloud | Unittest | CI/CD
